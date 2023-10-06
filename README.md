@@ -7,8 +7,9 @@ Within this repository you will find relevant information about the solution Lia
 - [Primary Goal](#primary-goal-of-this-engagement) and [Objectives](#objectives) of this program
 - [Program delivery structure](#program-delivery-phase)
 - [Personas that would most benefit from participating in this program](#entry-personas) *(hereafter referred to as **students**)*
-- [Tools that will be utilized during the delivery of the program](#tools)
 - [A preliminary schedule for the program delivery](#preliminary-schedule)
+- [Tools that will be utilized during the delivery of the program](#tools)
+- [A description of how the program will be scaled](#scaling-the-program)
 - [Slide deck presentation highlighting key information](XYZ%20Devops%20Transformation.pptx)
 
 ## Primary Goal
@@ -133,3 +134,17 @@ To ensure the best possible outcomes we recommend the following tools be utilize
 - AWS CodeBuild for building and testing code
 - AWS CodeDeploy for Continuous Delivery
 - AWS CodeStar for project management
+
+We are suggesting a close alignment with AWS for the cloud infrastructure because of the following reasons:
+
+- AWS is the most widely used cloud provider
+- AWS provides a wide range of services that can be used to build a robust cloud infrastructure, including compute, storage, networking, databases, and security
+- AWS provides a free tier that can be used for training purposes, thereby reducing costs
+- AWS provides a wide range of training materials and certifications that can be used to up-skill students that can be leveraged post delivery of the program
+- AWS provides a wide range of tools that can be used to build a robust CI/CD pipeline, including source control management, continuous integration, continuous delivery, and infrastructure as code
+
+
+## Scaling the Program
+
+Once the pilot cohort has been successfully completed, the program will be scaled to include additional teams and personnel. This will be accomplished by utilizing the same delivery structure and schedule as the pilot cohort. However, the content of the training will be adjusted based on the feedback obtained from the pilot cohort. This iterative approach ensures that the program remains dynamic and adaptable, thereby increasing the likelihood of success.
+
