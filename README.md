@@ -1,12 +1,12 @@
 # XYZ Delivery Executive Summary
 
-The purpose of this repository is to lay out the details of the Dojo Engagement program offering to XYZ Company from Liatrio. Within it you will find the following information:
+XYZ Company is currently facing challenges with their development process which include difficulty starting new product environments, long lead times, and lack of consistency between the different product environments. In order to alleviate these challenges, XYZ Company has engaged Liatrio's services to help up-skill their development team on modern development practices, as well as migrate their products from an on-premises infrastructure to a cloud environment (AWS). Within this repository you will find relevant information about the solution Liatrio proposes in order to achieve the goal set out by XYZ Company. It contains the following:
 
 - [Primary Goal](#primary-goal-of-this-engagement) and [Objectives](#objectives) of this program
+- Program delivery structure
 - Personas that would most benefit from participating in this program
 - Tools that will be utilized during the delivery of the program
 - A preliminary schedule for the program delivery
-- Delivery structure
 - Slide deck presentation highlighting key information
 
 ## Primary Goal
