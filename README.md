@@ -14,7 +14,7 @@ Within this repository you will find relevant information about the solution Lia
 
 ## Primary Goal
 
-> The primary goal of this engagement is to move XYZ's on-premises product suite to a cloud based solution while also improving the sustainability of XYZ's products. 
+> The primary goal of this engagement is to move XYZ's on-premises product suite to a cloud-based solution while also improving the sustainability of XYZ's products. 
 
 Every resource, time, personnel, artifact, and discussion dedicated to this program is aimed at achieving the set goal. This includes fostering a culture of continuous improvement, promoting collaboration, and enhancing the overall efficiency of the program. However, all elements, with the exception of the goal itself, are flexible and can be adjusted based on client needs and feedback obtained through iterative discovery. This approach ensures that the program remains dynamic, adaptable, and client-centric while maintaining its core objective.
 
@@ -53,9 +53,9 @@ The timeline for this phase will be determined following the completion of the o
 
 Moreover, this method allows for flexibility and adaptability, ensuring that any changes or adjustments can be made in a timely manner. This ultimately leads to a more successful training program that meets the needs of the participants and achieves the desired outcomes.
 
-### Program Dojo Phase
+### Program Delivery Phase
 
-The program dojo phase is where the Liatrio DevOps team of subject matter experts will begin training students of the pilot cohort. This phase will consist of Dojo sessions for hands-on training, embedded pair and mob programming sessions with developers working on production code, and weekly retrospectives to evaluate effectiveness of the practices learned.
+The program delivery phase is where the Liatrio DevOps team of subject matter experts will begin training students of the pilot cohort. This phase will consist of Dojo sessions for hands-on training, embedded pair and mob programming sessions with developers working on production code, and weekly retrospectives to evaluate effectiveness of the practices learned. More specifics about this phase can be found in the ["Preliminary Schedule"](#preliminary-schedule) section below.
 
 ### End of Pilot
 
