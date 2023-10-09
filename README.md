@@ -76,7 +76,7 @@ Upon completion of the pilot cohort, feedback from participants and stakeholders
 
 ## Preliminary Schedule
 
-The daily schedule will be divided into two sessions, separated by a one-hour lunch break. The morning sessions will focus on introducing new concepts, providing a solid theoretical foundation. The afternoon sessions, on the other hand, will be dedicated to practical application in a Dojo environment. This hands-on approach allows students to apply what they've learned to their own code base, fostering a deeper understanding and mastery of the material. 
+The daily schedule will be divided into two sessions, separated by a one-hour lunch break. The morning sessions will focus on introducing new concepts, providing a solid theoretical foundation, and exercises within sandboxed environments to allow for practice and experimentation. The afternoon sessions, on the other hand, will be dedicated to practical application in a Dojo environment. This hands-on approach allows students to apply what they've learned to their own code base, fostering a deeper understanding and mastery of the material. 
 
 Immediate feedback from the Liatrio team during these practice sessions further enhances the learning experience. It not only helps students correct mistakes in real-time but also provides them with personalized guidance and support. This structured yet flexible learning environment promotes active engagement, encourages problem-solving, and ultimately leads to more effective skill acquisition and application.
 
