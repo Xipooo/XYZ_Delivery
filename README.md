@@ -20,7 +20,7 @@ Every resource, time, personnel, artifact, and discussion dedicated to this prog
 
 ## Objectives
 
-Below are the primary objectives and milestones that are intended to be achieved during the delivery of this program:
+Achieving the primary goal will require several key objectives to be met. These objectives are designed to target specific areas of DevOps and will be prioritized based on the needs of XYZ. Below are the initial objectives and milestones that are intended to be achieved during the delivery of this program based on observations made from other similar engagements:
 
 - Up-skill students on a Continuous Integration and Continuous Delivery mindset
 - Implement a CI/CD pipeline for automated code validation and shorter lead times to deploy
@@ -33,9 +33,11 @@ Below are the primary objectives and milestones that are intended to be achieved
 
 ## Delivery Structure
 
-The implementation of a pilot cohort offers a multitude of benefits. It not only helps in controlling initial expenses but also minimizes the risk of unproductive development efforts. Furthermore, it provides an opportunity to collect valuable feedback that can predict the success of the program.
+Below you will find a general overview of the delivery structure for this program. This structure is designed to provide a solid foundation for the program while also allowing for flexibility and adaptability. This ensures that the program remains client-centric and can be adjusted to meet the needs of XYZ.
 
-In addition, a pilot cohort allows for real-world testing and refinement of the program before full-scale implementation. This can lead to improved user experience, increased adoption rates, and ultimately, a more successful program. It also facilitates the identification and resolution of potential issues early on, thereby reducing long-term costs and ensuring a smoother rollout.
+### Pilot Cohort
+
+The implementation of a pilot cohort offers a multitude of benefits. It not only helps in controlling initial expenses but also minimizes the risk of unproductive development efforts. Furthermore, it provides an opportunity to collect valuable feedback that can predict the success of the program. In addition, a pilot cohort allows for real-world testing and refinement of the program before full-scale implementation. This can lead to improved user experience, increased adoption rates, and ultimately, a more successful program. It also facilitates the identification and resolution of potential issues early on, thereby reducing long-term costs and ensuring a smoother rollout.
 
 To ensure the success of the pilot cohort, we will execute the following phases:
 
@@ -55,7 +57,7 @@ Moreover, this method allows for flexibility and adaptability, ensuring that any
 
 ### Program Delivery Phase
 
-During the program delivery phase, the Liatrio DevOps team, comprised of subject matter experts, will commence the training of the pilot cohort. The day will start with a brief lecture to introduce the day's topic and set objectives for the morning exercise. This will be followed by a Dojo session in the afternoon for hands-on training, where students will work directly with production code. Both morning and afternoon sessions will incorporate pair and mob programming, with instructors actively engaging with groups to reinforce learned concepts. The week will conclude with retrospectives to assess the effectiveness of the learned practices. Regular check-ins with product owners and stakeholders will also be conducted weekly to ensure transparent communication of progress. More specifics about this phase can be found in the ["Preliminary Schedule"](#preliminary-schedule) section below.
+During the program delivery phase, the Liatrio DevOps team, comprised of subject matter experts, will commence the training of the pilot cohort. Each day will start with a brief lecture to introduce the day's topic and set objectives for the morning exercise. This will be followed by a Dojo session in the afternoon for hands-on training, where students will work directly with production code. Both morning and afternoon sessions will incorporate pair and mob programming, with instructors actively engaging with groups to reinforce learned concepts. The week will conclude with retrospectives to assess the effectiveness of the learned practices. Regular check-ins with product owners and stakeholders will also be conducted weekly to ensure transparent communication of progress. More specifics about this phase can be found in the ["Preliminary Schedule"](#preliminary-schedule) section below.
 
 ### End of Pilot
 
@@ -80,7 +82,7 @@ The daily schedule will be divided into two sessions, separated by a one-hour lu
 
 Immediate feedback from the Liatrio team during these practice sessions further enhances the learning experience. It not only helps students correct mistakes in real-time but also provides them with personalized guidance and support. This structured yet flexible learning environment promotes active engagement, encourages problem-solving, and ultimately leads to more effective skill acquisition and application.
 
-The initial four weeks of the Dojo training will be dedicated to a set of prioritized topics, providing a structured learning path. The final week will be utilized for revisiting previous topics and addressing remaining topics based on the progress and needs of the students, as assessed by Liatrio's team. This approach ensures a comprehensive review and reinforcement of learned concepts, thereby enhancing the effectiveness of the training. Additionally, it allows for customization of the curriculum to better meet the needs of the students, leading to improved outcomes and greater student satisfaction.
+The initial four weeks of the training will be dedicated to a set of prioritized topics, providing a structured learning path. The final week will be utilized for revisiting previous topics based on the progress and needs of the students, and addressing any additional topics deemed important by Liatrio's team of trainers. This approach ensures a comprehensive review and reinforcement of learned concepts, thereby enhancing the effectiveness of the training. Additionally, it allows for customization of the curriculum to better meet the needs of the students, leading to improved outcomes and greater student satisfaction.
 
 The following is a preliminary schedule for the delivery of the program and is subject to change:
 
