@@ -84,7 +84,7 @@ Immediate feedback from the Liatrio team during these practice sessions further 
 
 ### Timeline
 
-The initial four weeks of the training will be dedicated to a set of prioritized topics, providing a structured learning path. The final week will be utilized for revisiting previous topics based on the progress and needs of the students, and addressing any additional topics deemed important by Liatrio's team of trainers. This approach ensures a comprehensive review and reinforcement of learned concepts, thereby enhancing the effectiveness of the training. Additionally, it allows for customization of the curriculum to better meet the needs of the students, leading to improved outcomes and greater student satisfaction.
+The initial five weeks of the training will be dedicated to a set of prioritized topics, providing a structured learning path. The final week will be utilized for revisiting previous topics based on the progress and needs of the students, and addressing any additional topics deemed important by Liatrio's team of trainers. This approach ensures a comprehensive review and reinforcement of learned concepts, thereby enhancing the effectiveness of the training. Additionally, it allows for customization of the curriculum to better meet the needs of the students, leading to improved outcomes and greater student satisfaction.
 
 The following is a preliminary schedule for the delivery of the program and is subject to change:
 
