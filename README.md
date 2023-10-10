@@ -37,13 +37,11 @@ Below you will find a general overview of the delivery structure for this progra
 
 ### Pilot Cohort
 
-The implementation of a pilot cohort offers a multitude of benefits. It not only helps in controlling initial expenses but also minimizes the risk of unproductive development efforts. Furthermore, it provides an opportunity to collect valuable feedback that can predict the success of the program. In addition, a pilot cohort allows for real-world testing and refinement of the program before full-scale implementation. This can lead to improved user experience, increased adoption rates, and ultimately, a more successful program. It also facilitates the identification and resolution of potential issues early on, thereby reducing long-term costs and ensuring a smoother rollout.
-
-To ensure the success of the pilot cohort, we will execute the following phases:
+The initial phase of this program will involve the formation of a pilot cohort comprising a maximum of 2 teams with 16 students in total. This approach has several advantages. It helps to keep initial costs low and reduces the risk of unproductive development efforts. It also provides an opportunity to gather valuable feedback that can help predict the program's success. Moreover, it allows for real-world testing and refinement of the program before it is implemented on a larger scale, leading to an improved user experience, higher adoption rates, and ultimately, a more successful program. Early identification and resolution of potential issues can also help reduce long-term costs and ensure a smoother rollout.
 
 ### Observational Phase
 
-In the initial phase, a duo of Liatrio experts will interact with the pre-selected students attending a pilot version of the training. This observational phase serves multiple purposes. It allows the Liatrio team to familiarize themselves with the students, understand their various working domains, and gather detailed information about the challenges they commonly encounter. This information will enable the experts to prioritize the skills and tools that will be most beneficial to the attendees. 
+Once the two pilot teams have been identified, a duo of Liatrio experts will interact with the selected students. This observational phase serves multiple purposes. It allows the Liatrio team to familiarize themselves with the students, understand their various working domains, and gather detailed information about the challenges they commonly encounter. This information will enable the experts to prioritize the skills and tools that will be most beneficial to the attendees. 
 
 Moreover, this approach provides an opportunity for early identification of potential issues, enabling proactive solutions and adjustments. It also fosters a collaborative learning environment where students feel seen and heard, which can lead to increased engagement and success in the program. Ultimately, this methodical and inclusive approach ensures a more effective and impactful training experience. 
 
@@ -78,9 +76,13 @@ Upon completion of the pilot cohort, feedback from participants and stakeholders
 
 ## Preliminary Schedule
 
-The daily schedule will be divided into two sessions, separated by a one-hour lunch break. The morning sessions will focus on introducing new concepts, providing a solid theoretical foundation, and exercises within sandboxed environments to allow for practice and experimentation. The afternoon sessions, on the other hand, will be dedicated to practical application in a Dojo environment. This hands-on approach allows students to apply what they've learned to their own code base, fostering a deeper understanding and mastery of the material. 
+### Sandbox and Dojo Sessions
+
+The daily schedule will be divided into two sessions, separated by a one-hour lunch break. The morning sessions will focus on introducing new concepts, providing a solid theoretical foundation, and exercises within a sandbox environment to allow for practice and experimentation. The afternoon sessions, on the other hand, will be dedicated to practical application in a Dojo environment. Students will identify real-world items to work on during Dojo time with the assistance of Liatrio's team of experts and other students in the program. This hands-on approach allows students to apply what they've learned to their own code base, fostering a deeper understanding and mastery of the material. 
 
 Immediate feedback from the Liatrio team during these practice sessions further enhances the learning experience. It not only helps students correct mistakes in real-time but also provides them with personalized guidance and support. This structured yet flexible learning environment promotes active engagement, encourages problem-solving, and ultimately leads to more effective skill acquisition and application.
+
+### Timeline
 
 The initial four weeks of the training will be dedicated to a set of prioritized topics, providing a structured learning path. The final week will be utilized for revisiting previous topics based on the progress and needs of the students, and addressing any additional topics deemed important by Liatrio's team of trainers. This approach ensures a comprehensive review and reinforcement of learned concepts, thereby enhancing the effectiveness of the training. Additionally, it allows for customization of the curriculum to better meet the needs of the students, leading to improved outcomes and greater student satisfaction.
 
@@ -88,31 +90,36 @@ The following is a preliminary schedule for the delivery of the program and is s
 
 | Day | Morning Session | Afternoon Session |
 | --- | --------------- | ----------------- |
-| 1   | Introduction to DevOps and DevOps Culture | Dojo |
-| 2   | Docker | Dojo |
-| 3   | Kubernetes | Dojo |
-| 4   | AWS Core Services | Dojo |
+| 1   | Introduction to DevOps Culture and CI/CD | Dojo |
+| 2   | Docker (Day 1) | Dojo |
+| 3   | Docker (Day 2) | Dojo |
+| 4   | Kubernetes (Day 1) | Dojo |
 | 5   | Retrospective | Dojo |
-| 6   | AWS ECR for Container Image Management | Dojo |
-| 7   | AWS EKS for Container Orchestration | Dojo |
-| 8   | AWS CodeCommit for Source Control Management | Dojo |
-| 9   | AWS CodePipeline for Continuous Integration | Dojo |
+| 6   | Kubernetes (Day 2) | Dojo |
+| 7   | AWS Core Services | Dojo |
+| 8   | AWS Core Services | Dojo |
+| 9   | AWS ECR for Container Image Management | Dojo |
 | 10  | Retrospective | Dojo |
-| 11  | AWS CodeBuild for Building and Testing Code | Dojo |
-| 12  | AWS CodeDeploy for Continuous Delivery | Dojo |
-| 13  | AWS CloudFormation for Infrastructure as Code | Dojo |
-| 14  | AWS CloudWatch for Logging and Monitoring | Dojo |
+| 11  | AWS EKS for Container Orchestration | Dojo |
+| 12  | AWS CodeCommit for Source Control Management | Dojo |
+| 13  | AWS CodePipeline for Continuous Integration | Dojo |
+| 14  | AWS CodeBuild for Building and Testing Code | Dojo |
 | 15  | Retrospective | Dojo |
-| 16  | AWS X-Ray for Tracing | Dojo |
-| 17  | Test Driven Development | Dojo |
-| 18  | Acceptance Test Driven Development | Dojo |
-| 19  | DORA Metrics | Dojo |
+| 16  | AWS CodeDeploy for Continuous Delivery | Dojo |
+| 17  | AWS CloudFormation for Infrastructure as Code | Dojo |
+| 18  | AWS CloudWatch for Logging and Monitoring | Dojo |
+| 19  | AWS X-Ray for Tracing | Dojo |
 | 20  | Retrospective | Dojo |
-| 21  | Review | Dojo |
-| 22  | TBD | Dojo |
-| 23  | TBD | Dojo |
-| 24  | TBD | Dojo |
-| 25  | TBD | Dojo |
+| 21  | Test Driven Development (Day 1) | Dojo |
+| 22  | Test Driven Development (Day 2) | Dojo |
+| 23  | Acceptance Test Driven Development | Dojo |
+| 24  | DORA Metrics | Dojo |
+| 25  | Retrospective | Dojo |
+| 26  | Review | Dojo |
+| 27  | TBD | Dojo |
+| 28  | TBD | Dojo |
+| 29  | TBD | Dojo |
+| 30  | TBD | Dojo |
 
 ## Tools
 
@@ -149,4 +156,3 @@ We are suggesting a close alignment with AWS for the cloud infrastructure becaus
 ## Scaling the Program
 
 Once the pilot cohort has been successfully completed, the program will be scaled to include additional teams and personnel. This will be accomplished by utilizing the same delivery structure and schedule as the pilot cohort. However, the content of the training will be adjusted based on the feedback obtained from the pilot cohort. This iterative approach ensures that the program remains dynamic and adaptable, thereby increasing the likelihood of success.
-
