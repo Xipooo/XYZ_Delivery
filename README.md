@@ -55,7 +55,7 @@ Moreover, this method allows for flexibility and adaptability, ensuring that any
 
 ### Program Delivery Phase
 
-The program delivery phase is where the Liatrio DevOps team of subject matter experts will begin training students of the pilot cohort. This phase will consist of Dojo sessions for hands-on training, embedded pair and mob programming sessions with developers working on production code, and weekly retrospectives to evaluate effectiveness of the practices learned. More specifics about this phase can be found in the ["Preliminary Schedule"](#preliminary-schedule) section below.
+During the program delivery phase, the Liatrio DevOps team, comprised of subject matter experts, will commence the training of the pilot cohort. The day will start with a brief lecture to introduce the day's topic and set objectives for the morning exercise. This will be followed by a Dojo session in the afternoon for hands-on training, where students will work directly with production code. Both morning and afternoon sessions will incorporate pair and mob programming, with instructors actively engaging with groups to reinforce learned concepts. The week will conclude with retrospectives to assess the effectiveness of the learned practices. Regular check-ins with product owners and stakeholders will also be conducted weekly to ensure transparent communication of progress. More specifics about this phase can be found in the ["Preliminary Schedule"](#preliminary-schedule) section below.
 
 ### End of Pilot
 
