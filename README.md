@@ -27,7 +27,7 @@ Achieving the primary goal will require several key objectives to be met. These 
 - Improve coding standards using a Linter
 - Utilize containerization as a tool to make infrastructure more modular
 - Start deploying code to the cloud to simplify provisioning new environments
-- Up-skill students on TDD and ATDD to provide a more sustainable code base
+- Up-skill students on TDD and ATDD to provide a more sustainable delivery model
 - Implement DORA metrics to measure the change in performance of the development process
 - Establish a DevOps culture to improve collaboration between teams
 
@@ -121,11 +121,11 @@ The following is a preliminary schedule for the delivery of the program and is s
 | 29  | TBD | Dojo |
 | 30  | TBD | Dojo |
 
-## Tools
+## Tools and Resources
 
-To ensure the best possible outcomes we recommend the following tools be utilized during the course of this program:
+To ensure the best possible outcomes we recommend the following tools and resources be utilized during the course of this program:
 
-- Conference room with large monitor, desks, and chairs for group discussions
+- Conference room with single large monitor (or projector), desks, and chairs for group discussions
 - Laptops with Windows, Linux, or MacOS operating systems
 - Visual Studio Code to provide a modern and consistent development environment
 - ESLint for a consistent coding style
@@ -144,14 +144,16 @@ To ensure the best possible outcomes we recommend the following tools be utilize
 - AWS CodeDeploy for Continuous Delivery
 - AWS CodeStar for project management
 
-We are suggesting a close alignment with AWS for the cloud infrastructure because of the following reasons:
+
+### Why AWS?
+
+We are suggesting a close alignment with AWS for the cloud infrastructure. Here are the top reasons:
 
 - AWS is the most widely used cloud provider
 - AWS provides a wide range of services that can be used to build a robust cloud infrastructure, including compute, storage, networking, databases, and security
 - AWS provides a free tier that can be used for training purposes, thereby reducing costs
 - AWS provides a wide range of training materials and certifications that can be used to up-skill students that can be leveraged post delivery of the program
 - AWS provides a wide range of tools that can be used to build a robust CI/CD pipeline, including source control management, continuous integration, continuous delivery, and infrastructure as code
-
 
 ## Scaling the Program
 
