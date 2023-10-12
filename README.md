@@ -27,6 +27,7 @@ Achieving the primary goal will require several key objectives to be met. These 
 - Improve coding standards using a Linter
 - Utilize containerization as a tool to make infrastructure more modular
 - Start deploying code to the cloud to simplify provisioning new environments
+- Use infrastructure as code to make infrastructure more consistent and repeatable
 - Up-skill students on TDD and ATDD to provide a more sustainable delivery model
 - Implement DORA metrics to measure the change in performance of the development process
 - Establish a DevOps culture to improve collaboration between teams
