@@ -14,7 +14,7 @@ Within this repository you will find relevant information about the solution Lia
 
 ## Primary Goal
 
-> The primary goal of this engagement is improving the sustainability of XYZ’s products by moving XYZ's on-premises product suite to a cloud-based solution and improving developer practices. 
+> The primary goal of this engagement is Improving the sustainability of XYZ’s products through cloud-based solutions and improving developer practices.
 
 Every resource, time, personnel, artifact, and discussion dedicated to this program is aimed at achieving the set goal. This includes fostering a culture of continuous improvement, promoting collaboration, and enhancing the overall efficiency of the program. However, all elements, with the exception of the goal itself, are flexible and can be adjusted based on client needs and feedback obtained through iterative discovery. This approach ensures that the program remains dynamic, adaptable, and client-centric while maintaining its core objective.
 
