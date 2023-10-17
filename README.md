@@ -103,17 +103,17 @@ The following is a preliminary schedule for the delivery of the program and is s
 | 10  | Retrospective | Dojo |
 | 11  | AWS EKS for Container Orchestration | Dojo |
 | 12  | AWS CodeCommit for Source Control Management | Dojo |
-| 13  | AWS CodePipeline for Continuous Integration | Dojo |
-| 14  | AWS CodeBuild for Building and Testing Code | Dojo |
+| 13  | AWS CodePipeline and CodeBuild for Continuous Integration | Dojo |
+| 14  | AWS CodeDeploy for Continuous Delivery | Dojo |
 | 15  | Retrospective | Dojo |
-| 16  | AWS CodeDeploy for Continuous Delivery | Dojo |
-| 17  | AWS CloudFormation for Infrastructure as Code | Dojo |
-| 18  | AWS CloudWatch for Logging and Monitoring | Dojo |
-| 19  | AWS X-Ray for Tracing | Dojo |
-| 20  | Retrospective | Dojo |
-| 21  | Test Driven Development (Day 1) | Dojo |
-| 22  | Test Driven Development (Day 2) | Dojo |
-| 23  | Acceptance Test Driven Development | Dojo |
+| 16  | AWS CloudFormation for Infrastructure as Code | Dojo |
+| 17  | AWS CloudWatch for Logging and Monitoring | Dojo |
+| 18  | AWS X-Ray for Tracing | Dojo |
+| 19  | Retrospective | Dojo |
+| 20  | Test Driven Development (Day 1) | Dojo |
+| 21  | Test Driven Development (Day 2) | Dojo |
+| 22  | Acceptance Test Driven Development | Dojo |
+| 23  | ESLint | Dojo |
 | 24  | DORA Metrics | Dojo |
 | 25  | Retrospective | Dojo |
 | 26  | Review | Dojo |
